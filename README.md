@@ -1,2 +1,2 @@
 # Searching
-Web scraping to get Google search results using Python
+Web scraping to get Google Search results using Python
